@@ -2,6 +2,15 @@
 
 This project aims to build a Machine Learning model to predict the daily percentage change of the NASDAQ index. The model will be trained using a dataset created from various data sources, including historical NASDAQ data, the VIX index, and technical indicators calculated from this data.
 
+Here is a graphic summary of the project execution:
+
+![Imagen1](./Related%20Images/Page1.png)
+![Imagen2](./Related%20Images/Page2.png)
+![Imagen3](./Related%20Images/Page3.png)
+![Imagen4](./Related%20Images/Page4.png)
+![Imagen5](./Related%20Images/Page5.png)
+![Imagen6](./Related%20Images/Page6.png)
+
 ## Project Goals
 
 - Predict the daily percentage change of the NASDAQ.
